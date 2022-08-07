@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/merkletec/static/css/main.83b5dced.chunk.css",
+    "main.js": "/merkletec/static/js/main.262ab776.chunk.js",
+    "main.js.map": "/merkletec/static/js/main.262ab776.chunk.js.map",
+    "runtime-main.js": "/merkletec/static/js/runtime-main.3f36760a.js",
+    "runtime-main.js.map": "/merkletec/static/js/runtime-main.3f36760a.js.map",
+    "static/js/2.633842c9.chunk.js": "/merkletec/static/js/2.633842c9.chunk.js",
+    "static/js/2.633842c9.chunk.js.map": "/merkletec/static/js/2.633842c9.chunk.js.map",
+    "index.html": "/merkletec/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/merkletec/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.633842c9.chunk.js.LICENSE.txt": "/merkletec/static/js/2.633842c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f36760a.js",
+    "static/js/2.633842c9.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.262ab776.chunk.js"
+  ]
+}
